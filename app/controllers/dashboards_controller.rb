@@ -2,6 +2,9 @@ class DashboardsController < ApplicationController
   def home
   end
 
-  def about
+  def mexico
+  end
+
+  def chile
   end
 end
